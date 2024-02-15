@@ -20,9 +20,9 @@ This app has been built using React-Native. The styling has been done using Nati
 
 
 ## How to run:
-cd Food-App-UI
-npm install
-npm start
-Install Expo Go and scan the QR Code to run on physical Android device
-Press 'a' on keyboard to run on Android emulator
+* cd Food-App-UI
+* npm install
+* npm start
+* Install Expo Go and scan the QR Code to run on physical Android device
+* Press 'a' on keyboard to run on Android emulator
 
