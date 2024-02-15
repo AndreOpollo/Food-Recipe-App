@@ -8,15 +8,14 @@ This app has been built using React-Native. The styling has been done using Nati
 
 # Home Screen
 
-![homescreen](https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/cb5561a1-4780-4fd2-abbb-d32b2795a601)
+<img src="https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/cb5561a1-4780-4fd2-abbb-d32b2795a601" width="40%" height="40%">
+<img src="https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/a82179fa-5e66-43f2-8c3d-b23ca038781f" width="40%" height="40%">
 
-![homescreen2](https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/a82179fa-5e66-43f2-8c3d-b23ca038781f)
 
 # Recipe Details Screen
+<img src="https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/fc45add1-089b-422c-b410-e68c2d621e80" width="40%" height="40%">
+<img src="https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/5b8c6bcc-4fb5-420c-beba-7c1451be04e2" width="40%" height="40%">
 
-![detailScreen](https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/fc45add1-089b-422c-b410-e68c2d621e80)
-
-![detailscreen2](https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/5b8c6bcc-4fb5-420c-beba-7c1451be04e2)
 
 ## How to run:
 cd Food-App-UI
