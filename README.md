@@ -4,7 +4,7 @@ A food recipe app that displays different meal recipes using themeadldb.com api
 This app has been built using React-Native. The styling has been done using Nativewind and React-Native Reanimated. It also utilizes React Native Navigation
 ## Images
 # Welcome Screen
-<img src="https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/6cb7b5ef-ddc6-40b6-8ec4-a04a71cab00c" width="1080" height="1920">
+<img src="https://github.com/AndreOpollo/Food-Recipe-App/assets/98306500/6cb7b5ef-ddc6-40b6-8ec4-a04a71cab00c" width="50%" height="50%">
 
 # Home Screen
 
